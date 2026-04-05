@@ -1,0 +1,10 @@
+# Секрети та налаштування середовища
+.env
+.env.local
+.env.*.local
+
+# Якщо ви використовуєте звичайний venv (не тільки Poetry)
+venv/
+.venv/
+ENV/
+postgres-data/
